@@ -90,7 +90,10 @@ h5 {
   font-size: 18px; }
 
 h6 {
-  font-size: 16px; }
+  font-size: 16px; 
+  color: #fff;
+}
+
 
 ul, ol {
   margin: 0px;
@@ -101,7 +104,7 @@ p {
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
-  color: #8a8fa3;
+  color: #edede;
   margin: 0px; }
   @media (max-width: 767px) {
     p {
@@ -130,7 +133,7 @@ p {
   font-size: 15px;
   line-height: 48px;
   border-radius: 50px;
-  color: #fff;
+  color: #262431;
   cursor: pointer;
   z-index: 5;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -144,26 +147,26 @@ p {
   background-color: #754ef9;
   text-transform: uppercase; }
   .main-btn:hover {
-    background-color: #fff;
+    background-color: #262431;
     color: #754ef9;
     border-color: #754ef9; }
   .main-btn.main-btn-2 {
     background-color: transparent;
-    color: #fff;
-    border-color: #fff;
+    color: #262431;
+    border-color: #262431;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none; }
     .main-btn.main-btn-2:hover {
       background-color: #754ef9;
-      color: #fff;
+      color: #262431;
       border-color: #754ef9; }
 
 /*===== All Section Title Style =====*/
 .section-title .title {
   font-weight: 700;
   font-size: 45px;
-  color: #000;
+  color: #fff;
   padding-bottom: 20px; }
   @media (max-width: 767px) {
     .section-title .title {
@@ -179,7 +182,7 @@ p {
   height: 100%;
   width: 100%;
   /* Change Background Color */
-  background: #fff;
+  background: #262431;
   z-index: 99999; }
   .preloader .loader_34 {
     display: table-cell;
@@ -235,7 +238,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #754ef9 #754ef9 #ddd;
+      border-color: #754ef9 #754ef9 #262431;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader_34 .ytp-spinner-left .ytp-spinner-circle {
@@ -452,7 +455,7 @@ p {
   -moz-box-shadow: 0px 0px 29px 0px rgba(134, 134, 134, 0.25);
   box-shadow: 0px 0px 29px 0px rgba(134, 134, 134, 0.25);
   padding: 30px 0;
-  background-color: #fff;
+  background-color: #262431;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
