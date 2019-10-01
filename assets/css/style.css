@@ -87,11 +87,13 @@ h4 {
   font-size: 22px; }
 
 h5 {
-  font-size: 18px; }
+  font-size: 18px;
+  color: #fff;
+ }
 
 h6 {
   font-size: 16px; 
-  color: #fff;
+  color: #32333c;
 }
 
 
@@ -827,7 +829,7 @@ p {
 .about-content .single-info .info-text {
   padding-left: 13px; }
   .about-content .single-info .info-text p span {
-    color: #32333c; }
+    color: #fff; }
 
 .about-skills .skill-item .skill-header {
   position: relative; }
